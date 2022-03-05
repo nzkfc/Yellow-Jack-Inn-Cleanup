@@ -10,6 +10,8 @@ Features:
 - Added wooden fence around carpark, these can be smashed but it's hard to get right through to lessen VDM in this area
 - Added port-o-com out the back (handy for staff/security housing if you use a FiveM housing script
 
+![image](https://user-images.githubusercontent.com/5011997/156866747-0754042a-4d82-4ca7-8eb9-7a8e31138d1f.png)
+
 ![image](https://user-images.githubusercontent.com/5011997/155502823-b66f09cf-1433-4a4d-9133-4e6a4a4ef1e1.png)
 
 ![image](https://user-images.githubusercontent.com/5011997/155502853-9996b042-1bfe-4eda-b0fe-3b34a5b173be.png)
